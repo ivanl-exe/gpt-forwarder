@@ -1,0 +1,7 @@
+[openai]
+api_key = "YOUR_API_KEY"
+model = 'gpt-3.5-turbo'
+max_tokens = 100
+
+[openai.system]
+statement = "YOUR_SYSTEM_ROLE_OPENING_STATEMENT"
